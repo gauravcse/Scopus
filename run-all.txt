@@ -1,0 +1,5 @@
+python scopus.py
+set path="C:\Program Files\Java\jdk1.8.0_51\bin"
+javac Parser.java
+java Parser
+python graph.py

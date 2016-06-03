@@ -1,0 +1,8 @@
+10.1080/08927022.2010.481794	 16	2010-06-01	Inoglu N., Kitchin J.R., New solid-state table: Estimating d-band characteristics for transition metal atoms
+10.1103/PhysRevLett.103.246102	 45	2009-12-10	Tierney H.L., Baber A.E., Kitchin J.R., Sykes E.C.H., Hydrogen dissociation and spillover on individual isolated palladium atoms
+10.1080/08927020902833137	 14	2009-09-01	Miller S.D., Kitchin J.R., Uncertainty and figure selection for DFT based cluster expansions for oxygen adsorption on Au and Pt (111) surfaces
+10.1080/08927020902833129	 6	2009-09-01	Inolu N., Kitchin J.R., Sulphur poisoning of water-gas shift catalysts: Site blocking and electronic structure modification
+10.1103/PhysRevB.79.205412	 26	2009-05-01	Kitchin J.R., Correlations in coverage-dependent atomic adsorption energies on Pd(111)
+10.1063/1.3096964	 11	2009-04-08	Han J.W., Kitchin J.R., Sholl D.S., Step decoration of chiral metal surfaces
+10.1063/1.1737365	 443	2004-06-01	Kitchin J.R., Norskov J.K., Barteau M.A., Chen J.G., Modification of the surface electronic and chemical properties of Pt(111) by subsurface 3d transition metals
+10.1016/j.susc.2003.08.041	 11	2003-11-01	McCormick J.R., Kitchin J.R., Barteau M.A., Chen J.G., A four-point probe correlation of oxygen sensitivity to changes in surface resistivity of TiO2(0 0 1) and Pd-modified TiO2(0 0 1)
